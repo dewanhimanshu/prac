@@ -110,6 +110,8 @@ class graph
 
     void euler()
     {
+	
+	
     }
 
 
